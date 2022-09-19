@@ -1,4 +1,21 @@
+<<<<<<< HEAD
 .color {
   color: red;
   background-color: red;
 }
+=======
+.parent{
+    display: flex;
+    width:200px;
+    height:200px;
+    background-color: palevioletred;
+    justify-content: center;
+    align-items: center;
+   }
+   .child{
+    width:50px;
+    height:50px;
+    padding: 10px;
+    background-color: cornflowerblue;
+   }
+>>>>>>> f9fef675db9995ffb9639b6dc150c528c97e82dc
